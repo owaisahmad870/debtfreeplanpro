@@ -1,6 +1,6 @@
 {
- "name": "Debt Free Plan Pro",
- "short_name": "Debt Free Plan",
+ "name": "Settlo Debt Planner",
+ "short_name": "Settlo",
  "description": "Debt payoff tracker. Your numbers stay on this device.",
  "start_url": ".",
  "scope": ".",
